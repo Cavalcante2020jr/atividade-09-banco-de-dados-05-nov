@@ -1,0 +1,21 @@
+A alternativa correta é:
+
+✅ **c. Modelagem conceitual**
+
+### ✅ Explicação
+
+Ao criar o **diagrama de banco de dados** (como um diagrama ER), o analista está representando:
+
+* As entidades
+* Seus atributos
+* Os relacionamentos entre elas
+
+Essa atividade faz parte da **fase de modelagem conceitual**, onde o objetivo é compreender e estruturar o modelo de dados antes da implementação no SGBD.
+
+### ❌ Por que as outras estão erradas?
+
+* **a. Implementação** → ocorre depois da modelagem, no banco real.
+* **b. Codificação** → envolve escrever código SQL ou programação, não desenhar o modelo.
+* **d. Teste de software** → fase posterior, para validar o sistema.
+
+Portanto, a resposta correta é **c**.
